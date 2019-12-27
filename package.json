@@ -1,7 +1,14 @@
 {
-    "name": "_Pagination",
-    "version": "v1.0.1",
-    "dependencies": {
-        "svg-tag-names": "^2.0.0"
-    }
+    "name": "pagination",
+    "displayName": "pagination",
+    "version": "1.0.1",
+    "publisher": "ms-vscode",
+    "description": "Pagination for php, twig.",
+    "author": {
+        "name": "vincseize",
+        "email": "vincseize@gmail.com"
+    },
+    "license": "MIT",
+    "dependencies": {},
+    "categories": ["Programming Languages", "Other"]
 }

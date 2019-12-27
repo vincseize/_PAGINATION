@@ -1,3 +1,5 @@
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
 # Auto pagination php, twig 
 ## sample with sql data; can work, i suppose, with other fetching data
 
