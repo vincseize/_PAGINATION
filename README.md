@@ -1,4 +1,4 @@
-
+[![stable](https://svg-badge.appspot.com/badge/stability/stable?color=3a3&cb)](https://svg-badge.appspot.com/badge/stability/stable?color=3a3)
 
 [![Github Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 
