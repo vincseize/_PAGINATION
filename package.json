@@ -10,5 +10,17 @@
     },
     "license": "MIT",
     "dependencies": {},
-    "categories": ["Programming Languages", "Other"]
-}
+    "categories": [
+        "Programming Languages", 
+        "Other"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vincseize/_PAGINATION"
+    },
+    "keywords": [
+      "php",
+      "twig",
+      "js"
+    ]
+  }
