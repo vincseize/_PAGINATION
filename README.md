@@ -1,9 +1,4 @@
-<!-- [![stable](https://svg-badge.appspot.com/badge/stability/stable?color=3a3&cb)](https://svg-badge.appspot.com/badge/stability/stable?color=3a3) -->
-
-<!-- [![Github Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde) -->
-
 [![GitHub version](https://img.shields.io/badge/version-prod-green)](version-prod-green)
-
 [![GitHub releases](https://img.shields.io/badge/release-v1.0.1-blue)](https://img.shields.io/badge/release-v1.0.1-blue)
 [![GitHub issues](https://img.shields.io/github/issues/vincseize/_PAGINATION)](https://github.com/vincseize/_PAGINATION/issues)
 [![GitHub forks](https://img.shields.io/github/forks/vincseize/_PAGINATION)](https://github.com/vincseize/_PAGINATION/network)
