@@ -1,0 +1,7 @@
+{
+    "name": "_Pagination",
+    "version": "v1.0.1",
+    "dependencies": {
+        "svg-tag-names": "^2.0.0"
+    }
+}
