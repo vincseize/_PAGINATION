@@ -65,8 +65,8 @@ $Pagination = new $this -> Pagination(
 );
 
 $pagination = $Pagination->pagination_ui();
-
 ```
+
 ```html
 <div class="input-group"> 
     <select id='nResult_select' data-pgn="{{pgn_paramRes}}" class="{{pgn_paramRes}}"">
