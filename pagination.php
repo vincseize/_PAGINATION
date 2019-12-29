@@ -1,7 +1,7 @@
 <?php
     $pgn_paramRes  = 'n_result';
 ?>
-<select id="select_ANYID" id="select_ANYNAME" class="<?php echo $n_result;?>" data-pgn="<?php echo $n_result;?>">
+<select id="select_ANYID" id="select_ANYNAME" class="<?php echo $pgn_paramRes;?>" data-pgnPage="<?php echo $pgn_paramPage;?>" data-pgnRes="<?php echo $pgn_paramRes;?>" style="width:auto;">
     <?php
         foreach($n_results_array as $result){
             $selected = '';
